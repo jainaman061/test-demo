@@ -1,0 +1,55 @@
+/* .seat_value{
+    list-style-type: none;
+} */
+.Last_booking_details_container{
+    
+}
+.Last_booking_details_container_main{
+    padding: 10px 20px; 
+    border-radius: 5px;
+    border: 5px solid black;
+    display: flex;
+    flex-direction: column;
+}
+.Last_booking_details_header{
+    font-size: 32px;
+    margin-bottom: 10px;
+    color: black;
+}
+.Seats_Conatiner{
+    margin-bottom: 10px;
+}
+.Seats_header{
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+.seats{
+    list-style-type:none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.seat_value{
+    width: 60px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(0, 207, 207);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+.Slot,.movie{
+    margin-bottom: 10px;
+    font-weight: 500;
+    font-size: 10px;
+
+}
+.slot span,.movie span{
+    font-weight: 400;
+    font-size: 16px;
+}
+.No_previous_booking{
+    
+}

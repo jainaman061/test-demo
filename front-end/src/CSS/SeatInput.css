@@ -1,0 +1,16 @@
+.seats-input{
+    width: 50%;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: 10px;
+    text-align: center;
+    border: none !important;
+   
+}
+.form-check-label{
+    width: fit-content;
+    padding: 10px;
+}
+.form-check-label:hover{
+    background-color: red;
+}
